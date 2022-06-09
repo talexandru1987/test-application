@@ -1,0 +1,28 @@
+{
+  "name": "test-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talexandru1987/test-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talexandru1987/test-application/issues"
+  },
+  "homepage": "https://github.com/talexandru1987/test-application#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "jest": "^28.1.1"
+  }
+}
